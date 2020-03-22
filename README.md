@@ -17,7 +17,8 @@ https://www.youtube.com/watch?v=Rgpfk6eYxJA
 
 ## Working Requirments( these requiremnts worked for me ) 
 
--tensorflow           1.13.1 or tensorflow-gpu       1.15.0
+- tensorflow            1.13.1
+- or tensorflow-gpu    1.15.0
 - protobuf             3.11.3
 - Pillow               7.0.0
 - numpy                1.18.2
